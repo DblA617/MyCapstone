@@ -39,12 +39,16 @@ code {
     monospace;
 }
 
+
+
+/* Below is the CSS for the about pages. Img and card details. */
 .card {
   width: 70%;
   width: 85%;
   height: 25%;
   color: rgb(236, 9, 9);
   position: static;
+  font-size: 20px;
   /* border: black;
   border-width: medium; */
 
@@ -74,19 +78,13 @@ img{
 blockquote {
   font-family: font-family 'Montserrat', sans-serif;
 }
-/* .post-container {
-  background: rgb(60, 62, 65);
-} */
 
-footer{
-  position: fixed-bottom;
+
+div.post-container {
+  align-self: center;
 }
 
 
 
 
-/* attractions - kings island card size */
-.hcard{
-  width:540px;
- 
-}
+/* About Page Style End */
